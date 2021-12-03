@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/my_poc?createDatabaseIfNotExist=true
+    username: root
+    password: Shan1104
+    driver-class-name: com.mysql.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+
+
+  application:
+    name: SQL-POC-SEVICE
+
+server:
+  port: 8080
