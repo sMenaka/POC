@@ -14,7 +14,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.io.IOException;
 
 @RestController
-@RequestMapping("/Upload")
+@RequestMapping("/upload")
 public class FileUploaderController {
 
     @Autowired
