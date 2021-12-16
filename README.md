@@ -8,7 +8,7 @@ NoSql POC is a Proofing concept of spring boot project config with MongoDB.
 
 
 ### SQL
-SQL is a Proofing concept of spring boot project config with mysql.
+SQL is a Proofing concept of spring boot project config with mysql.<br/>
 I have implemented relationships MySQL with Spring Data JPA.
 
 The output sql view.
