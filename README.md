@@ -16,3 +16,7 @@ The output sql view.
 
 ### File-uploader
 The File-uploader Project is file upload API with test case.
+
+### oauthService
+
+oauth Service project is role based authentication service api.
